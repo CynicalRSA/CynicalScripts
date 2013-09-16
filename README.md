@@ -1,0 +1,4 @@
+CynicalScripts
+==============
+
+All meh scripts 
